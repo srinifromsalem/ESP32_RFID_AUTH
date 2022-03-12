@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "47409fdd-ac51-4f56-83a2-dc9dfd5446c9",
+		"name": "Python Server Webservice Get and Post Demo",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Python WebServer Basic Get",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Python Webserver Basic Post",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
